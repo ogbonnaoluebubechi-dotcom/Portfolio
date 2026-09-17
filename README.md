@@ -3,21 +3,21 @@ I’m Oluebubechi, a Virtual Executive Assistant who helps executives and busine
 ## Skills
 - Administrative Support
 - Calendar Management
--Data Entry
--Email Management
--Project Management
--Workflow Organisation
--Documentation
--Online Research
--Inbox Management
--Meeting Planning & Coordination
--Digital File Organization & Record Management 
+- Data Entry
+- Email Management
+- Project Management
+- Workflow Organisation
+- Documentation
+- Online Research
+- Inbox Management
+- Meeting Planning & Coordination
+- igital File Organization & Record Management 
 ## Tools Stack
 -Google Workspace
--Trello
--Clickup
--Monday.com
--Asana
--Zapier
--Canva
--Acuity Scheduling
+- Trello
+- Clickup
+- Monday.com
+- Asana
+- Zapier
+- Canva
+- Acuity Scheduling
