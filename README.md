@@ -21,3 +21,20 @@ I’m Oluebubechi, a Virtual Executive Assistant who helps executives and busine
 - Zapier
 - Canva
 - Acuity Scheduling
+## Project 
+# Built a Trello-based dashboard used for organizing tasks, priorities, deadlines, checklists, and team coordination. View Project
+
+Client Onboarding System
+A ClickUp workflow designed to organize client Onboarding form setup through portfolio Completion. View Project
+
+Task Management System
+Designed a management dashboard for an entrepreneur to help track Priorities, deadlines, task project and follow ups, View Project
+
+Team Business Travel Coordination
+A ClickUp project for coordinating team business travel, including tasks, deadlines, dependencies, documentation, and communication. View Project
+
+Calendar Management & Integration
+A Google Calendar project demonstrating schedule management, reminders, buffer time, and calendar integration.
+
+Workflow Automation using Zapier
+Built automated workflow connecting Google Forms, Google Sheets, Zapier, and Trello to organize customer inquiries. View Project
