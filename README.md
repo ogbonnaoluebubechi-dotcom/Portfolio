@@ -13,7 +13,7 @@ I’m Oluebubechi, a Virtual Executive Assistant who helps executives and busine
 - Meeting Planning & Coordination
 - igital File Organization & Record Management 
 ## Tools Stack
--Google Workspace
+- Google Workspace
 - Trello
 - Clickup
 - Monday.com
