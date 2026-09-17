@@ -25,7 +25,8 @@ I’m Oluebubechi, an Executive virtual assistant who helps executives and busin
 
 ## PROJECT 
 ### CEO Operations Dashboard 
- Built a Trello-based dashboard used for organizing tasks, priorities, deadlines, checklists, and team coordination. [View Project](https://drive.google.com/file/d/1y42Ujt7K-Zg-yY0VeFsMDe-KoqkRKn-C/view?usp=drivesdk)
+ Built a Trello-based dashboard used for organizing tasks, priorities, deadlines, checklists, and team coordination
+ IMG-20260728-WA0011(1).jpg [View Project](https://drive.google.com/file/d/1y42Ujt7K-Zg-yY0VeFsMDe-KoqkRKn-C/view?usp=drivesdk)
 ### Client Onboarding System
 A ClickUp workflow designed to organize client Onboarding form setup through portfolio Completion. [View Project](https://drive.google.com/file/d/1sQbdoIQlJXtenzcwzOO2rXuS2MyV-5-S/view?usp=drivesdk)
 ### Task Management System
