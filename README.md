@@ -12,6 +12,7 @@ I’m Oluebubechi, a Virtual Executive Assistant who helps executives and busine
 - Inbox Management
 - Meeting Planning & Coordination
 - Digital File Organization & Record Management
+
 ## Tool Stack
 - Google Workspace
 - Trello
@@ -21,6 +22,7 @@ I’m Oluebubechi, a Virtual Executive Assistant who helps executives and busine
 - Zapier
 - Canva
 - Acuity Scheduling
+
 ## Project 
 ### CEO Operations Dashboard 
  Built a Trello-based dashboard used for organizing tasks, priorities, deadlines, checklists, and team coordination. [View Project](https://drive.google.com/file/d/1y42Ujt7K-Zg-yY0VeFsMDe-KoqkRKn-C/view?usp=drivesdk)
