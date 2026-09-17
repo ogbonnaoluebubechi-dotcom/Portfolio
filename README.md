@@ -1,6 +1,6 @@
 ## ABOUT ME 
 I’m Oluebubechi, a Virtual Executive Assistant who helps executives and business owners stay organized, manage priorities, and operate more efficiently. Through efficient calendar management, meeting coordination, travel planning, inbox organization, and administrative support, I create systems that streamline operations and save valuable time. My goal is to provide proactive support that keeps businesses running smoothly and allows leaders to focus on high-impact decisions.
-## Skills
+## SKILLS 
 - Administrative Support
 - Calendar Management
 - Data Entry
@@ -13,7 +13,7 @@ I’m Oluebubechi, a Virtual Executive Assistant who helps executives and busine
 - Meeting Planning & Coordination
 - Digital File Organization & Record Management
 
-## Tool Stack
+## TOOL STACK 
 - Google Workspace
 - Trello
 - Clickup
@@ -23,7 +23,7 @@ I’m Oluebubechi, a Virtual Executive Assistant who helps executives and busine
 - Canva
 - Acuity Scheduling
 
-## Project 
+## PROJECT 
 ### CEO Operations Dashboard 
  Built a Trello-based dashboard used for organizing tasks, priorities, deadlines, checklists, and team coordination. [View Project](https://drive.google.com/file/d/1y42Ujt7K-Zg-yY0VeFsMDe-KoqkRKn-C/view?usp=drivesdk)
 ### Client Onboarding System
@@ -36,3 +36,4 @@ A ClickUp project for coordinating team business travel, including tasks, deadli
 A Google Calendar project demonstrating schedule management, reminders, buffer time, and calendar integration.
 ### Workflow Automation using Zapier
 Built automated workflow connecting Google Forms, Google Sheets, Zapier, and Trello to organize customer inquiries. View Project.
+## CONTACT ME
