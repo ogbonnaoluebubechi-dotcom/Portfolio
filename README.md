@@ -32,7 +32,8 @@ Hello 🤗, I'm Oluebubechi, an Executive virtual assistant who helps executives
 ![Client Onboarding System](images/FB_IMG_1789709844472.jpg)
 A ClickUp workflow designed to organize client Onboarding form setup through portfolio Completion. [View Project](https://drive.google.com/file/d/1sQbdoIQlJXtenzcwzOO2rXuS2MyV-5-S/view?usp=drivesdk)
 ### Task Management System
-Designed a management dashboard for an entrepreneur to help track Priorities, deadlines, task project and follow ups, View Project
+Created a management dashboard using Google sheets for an entrepreneur to help track Priorities, deadlines, task project and follow ups.
+[View Project](https://drive.google.com/file/d/1v7N-yIBCLoBfQbBjlQUUY3QGDt3vsA80/view?usp=drivesdk)
 ### Team Business Travel Coordination
 ![Team Business Travel Coordination](images/IMG-20260905-WA0000(2).jpg)
 A ClickUp project for coordinating team business travel, including tasks, deadlines, dependencies, documentation, and communication. [View Project](https://drive.google.com/file/d/1kNrsPbDDNB1w641oKCpyl3L2KnaMUi7a/view?usp=drivesdk)
