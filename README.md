@@ -53,6 +53,7 @@ Built automated workflow connecting Google Forms, Google Sheets, Zapier, and Tre
 - Google Workspace Mastery Course
 - Introduction to project Management with Clickup
 - Get started with Asana
+
 [Certificate](https://drive.google.com/drive/folders/1lAOxmw_KpPpQUTL0cZsaG-TmMN-kYsmZ)
 ## LET WORK TOGETHER 
 Behind every team is an organized Executive Virtual Assistant
