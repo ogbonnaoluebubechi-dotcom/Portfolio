@@ -23,7 +23,7 @@ Hello 🤗, I'm Oluebubechi, an Executive virtual assistant who helps executives
 - Canva
 - Acuity Scheduling
 
-## PROJECT 
+## PORTFOLIO PROJECT 
 ### CEO Operations Dashboard 
 ![CEO Operations Dashboard](images/IMG-20260728-WA0011%281%29.jpg)
  Built a Trello-based dashboard used for organizing tasks, priorities, deadlines, checklists, and team coordination
