@@ -34,6 +34,7 @@ A ClickUp workflow designed to organize client Onboarding form setup through por
 ### Task Management System
 Designed a management dashboard for an entrepreneur to help track Priorities, deadlines, task project and follow ups, View Project
 ### Team Business Travel Coordination
+![Team Business Travel Coordination](images/IMG-20260905-WA0000(2).jpg)
 A ClickUp project for coordinating team business travel, including tasks, deadlines, dependencies, documentation, and communication. [View Project](https://drive.google.com/file/d/1kNrsPbDDNB1w641oKCpyl3L2KnaMUi7a/view?usp=drivesdk)
 ### Calendar Management & Integration
 A Google Calendar project demonstrating schedule management, reminders, buffer time, and calendar integration.
