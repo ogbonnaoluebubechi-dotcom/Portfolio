@@ -25,6 +25,7 @@ I’m Oluebubechi, an Executive virtual assistant who helps executives and busin
 
 ## PROJECT 
 ### CEO Operations Dashboard 
+![CEO Operations Dashboard](images/IMG-20260728-WA0011%281%29.jpg)
  Built a Trello-based dashboard used for organizing tasks, priorities, deadlines, checklists, and team coordination
  [images/IMG-20260728-WA0011(1).jpg]
  [View Project](https://drive.google.com/file/d/1y42Ujt7K-Zg-yY0VeFsMDe-KoqkRKn-C/view?usp=drivesdk)
