@@ -45,10 +45,17 @@ Built an online booking system using Acuity Scheduling to streamline appointment
 ![Calendar Management & Integration](images/IMG-20260918-WA0013.jpg)
 A Google Calendar project demonstrating schedule management, reminders, buffer time, and calendar integration.
 ### Workflow Automation using Zapier
-Built automated workflow connecting Google Forms, Google Sheets, Zapier, and Trello to organize customer inquiries. View Project.
+Built automated workflow connecting Google Forms, Google Sheets, Zapier, and Trello to organize customer inquiries.
 [View Project](https://drive.google.com/file/d/1Hn4dDEfaH6V_2FUXkKgdM1PeJojY42GM/view?usp=drivesdk)
-## CONTACT ME
-Behind every team is an organized Executive Virtual Assistant.
+
+## Certificate 
+- In-Demand IT Skills Training
+- Google Workspace Mastery Course
+- Introduction to project Management with Clickup
+- Get started with Asana 
+## LET WORK TOGETHER 
+Behind every team is an organized Executive Virtual Assistant
+
 Your team deserve structure and a partner you can count on.
 - [LinkedIn](https://www.linkedin.com/in/oluebubechi-ogbonna-b57907402?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - [Facebook](https://www.facebook.com/share/1MB8LJUWjk/)
