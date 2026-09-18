@@ -51,4 +51,5 @@ Built automated workflow connecting Google Forms, Google Sheets, Zapier, and Tre
 Behind every team is an organized Executive Virtual Assistant.
 Your team deserve structure and a partner you can count on.
 - [LinkedIn](https://www.linkedin.com/in/oluebubechi-ogbonna-b57907402?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[Facebook](https://www.facebook.com/share/1MB8LJUWjk/)
+- [Facebook](https://www.facebook.com/share/1MB8LJUWjk/)
+- [WhatsApp](@oluebubechimaryglory)
