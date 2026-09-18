@@ -37,10 +37,10 @@ Designed a management dashboard for an entrepreneur to help track Priorities, de
 ![Team Business Travel Coordination](images/IMG-20260905-WA0000(2).jpg)
 A ClickUp project for coordinating team business travel, including tasks, deadlines, dependencies, documentation, and communication. [View Project](https://drive.google.com/file/d/1kNrsPbDDNB1w641oKCpyl3L2KnaMUi7a/view?usp=drivesdk)
 ### Client Appointment Booking System
-![Client Appointment Booking System](images/IMG-20260918-WA0012.jpg)
 Built an online booking system using Acuity Scheduling to streamline appointment scheduling and improve client booking efficiency.
 [View Project](https://drive.google.com/file/d/1EP2l9cdG4dbfmyYQovRjpXg1fX1XGltb/view?usp=drivesdk)
 ### Calendar Management & Integration
+![Calendar Management & Integration](images/IMG-20260918-WA0013.jpg)
 A Google Calendar project demonstrating schedule management, reminders, buffer time, and calendar integration.
 ### Workflow Automation using Zapier
 Built automated workflow connecting Google Forms, Google Sheets, Zapier, and Trello to organize customer inquiries. View Project.
