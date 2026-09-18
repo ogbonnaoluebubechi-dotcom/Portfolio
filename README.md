@@ -27,7 +27,6 @@ I’m Oluebubechi, an Executive virtual assistant who helps executives and busin
 ### CEO Operations Dashboard 
 ![CEO Operations Dashboard](images/IMG-20260728-WA0011%281%29.jpg)
  Built a Trello-based dashboard used for organizing tasks, priorities, deadlines, checklists, and team coordination
- [images/IMG-20260728-WA0011(1).jpg]
  [View Project](https://drive.google.com/file/d/1y42Ujt7K-Zg-yY0VeFsMDe-KoqkRKn-C/view?usp=drivesdk)
 ### Client Onboarding System
 ![Client Onboarding System](images/FB_IMG_1789709844472.jpg)
@@ -37,6 +36,10 @@ Designed a management dashboard for an entrepreneur to help track Priorities, de
 ### Team Business Travel Coordination
 ![Team Business Travel Coordination](images/IMG-20260905-WA0000(2).jpg)
 A ClickUp project for coordinating team business travel, including tasks, deadlines, dependencies, documentation, and communication. [View Project](https://drive.google.com/file/d/1kNrsPbDDNB1w641oKCpyl3L2KnaMUi7a/view?usp=drivesdk)
+### Client Appointment Booking System
+Built an online booking system using Acuity Scheduling to streamline appointment scheduling and improve client booking efficiency.
+
+[View Project](https://drive.google.com/file/d/1EP2l9cdG4dbfmyYQovRjpXg1fX1XGltb/view?usp=drivesdk)
 ### Calendar Management & Integration
 A Google Calendar project demonstrating schedule management, reminders, buffer time, and calendar integration.
 ### Workflow Automation using Zapier
