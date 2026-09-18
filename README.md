@@ -48,6 +48,7 @@ A Google Calendar project demonstrating schedule management, reminders, buffer t
 Built automated workflow connecting Google Forms, Google Sheets, Zapier, and Trello to organize customer inquiries. View Project.
 [View Project](https://drive.google.com/file/d/1Hn4dDEfaH6V_2FUXkKgdM1PeJojY42GM/view?usp=drivesdk)
 ## CONTACT ME
-Behind every team is an organized Executive Virtual Assistant 
+Behind every team is an organized Executive Virtual Assistant.
 Your team deserve structure and a partner you can count on.
 - [LinkedIn](https://www.linkedin.com/in/oluebubechi-ogbonna-b57907402?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[Facebook](https://www.facebook.com/share/1MB8LJUWjk/)
